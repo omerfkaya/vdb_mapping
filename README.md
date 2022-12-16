@@ -4,7 +4,7 @@ DISCLAIMER: This library is still under development. Be warned that some interfa
 
 This package is ROS2 port of [VDB Mapping](https://github.com/fzi-forschungszentrum-informatik/vdb_mapping)
 
-The VDB Mapping core library was primarily developed to be used in combination with the corresponding [ROS wrapper (Under Development)](https://github.com/omerfkaya/vdb_mapping_ros)
+The VDB Mapping core library was primarily developed to be used in combination with the corresponding [ROS2 wrapper](https://github.com/omerfkaya/vdb_mapping_ros2)
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ make install
 ```
 
 #### ROS workspace
-In case you want build this library inside of a ROS workspace in combination with [VDB Mapping ROS (Under Development)](https://github.com/omerfkaya/vdb_mapping_ros)
+In case you want build this library inside of a ROS workspace in combination with [VDB Mapping ROS2](https://github.com/omerfkaya/vdb_mapping_ros2)
 
 ``` bash
 # source global ros
